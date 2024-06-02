@@ -1,5 +1,5 @@
 # YOLOv8-RK3588-Python
-Modify Code From rknn-toolkit2
+Baseon YOLOv5-RK3588-Python
 
 # Getting Started
 You can change source cam, resolution from capture in config.py
