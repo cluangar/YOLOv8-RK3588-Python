@@ -16,5 +16,5 @@ python inference_mnpu.py
 
 # This branch
 1. fix incorrect High detect box
-2. add multithread rknn pool
+2. add multithread with rknn pool
 3. support inference YOLO v5 and v8
