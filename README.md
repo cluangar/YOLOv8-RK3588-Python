@@ -18,3 +18,6 @@ python inference_mnpu.py
 1. fix incorrect High detect box
 2. add multithread with rknn pool
 3. support inference YOLO v5 and v8
+
+# Example on Youtube (apply code to use custom dataset)
+https://www.youtube.com/watch?v=ZM9b4XA0KSM&t=5s
