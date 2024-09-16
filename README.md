@@ -1,5 +1,5 @@
 # YOLOv8-RK3588-Python
-Baseon YOLOv5-RK3588-Python
+Baseon YOLOv5-RK3588-Python. It can boostup fps from 15fps (singlethread single npu core) to +60fps (multithread, multi npu cores)
 
 # Getting Started
 You can change source cam, resolution from capture in config.py
