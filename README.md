@@ -22,5 +22,6 @@ python inference_mnpu.py
 
 # Example on Youtube (apply code to use custom dataset)
 https://www.youtube.com/watch?v=ZM9b4XA0KSM
+https://www.youtube.com/watch?v=waDHaCa_Kss
 # YOLOv5 vs YOLOv8
 https://www.youtube.com/watch?v=ROTseFoK89o
